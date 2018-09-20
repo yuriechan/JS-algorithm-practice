@@ -1,0 +1,6 @@
+var orc = {
+hair: "green",
+age: 5,
+stomachFull: true,
+};
+
